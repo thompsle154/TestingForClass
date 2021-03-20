@@ -1,3 +1,4 @@
 # TestingForClass
 Class exercise to upload stuff in the repo
-Editted with an update
+Edit was an update
+Added photo to main branch
